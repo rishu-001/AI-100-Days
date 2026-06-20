@@ -1,0 +1,12 @@
+# Virtual Environment
+ai_env_100/
+
+# Environment Variables
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
